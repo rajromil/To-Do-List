@@ -26,7 +26,7 @@ A basic and responsive To-Do List web app built using **HTML**, **CSS**, and **J
 ## 📸 Screenshot
 
 ```markdown
-![Screenshot](screenshot.png)
+![Screenshot](./screenshot.png)
 ```
 
 ## 📱 Responsive Design
