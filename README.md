@@ -18,16 +18,14 @@ A basic and responsive To-Do List web app built using **HTML**, **CSS**, and **J
 
 ## 💻 How to Use
 
-1. Open `index.html` in any web browser.
-2. Type a task in the input box.
-3. Click **"Add Task"** to add it to the list.
+1. Open `index.html` in any web browser.  
+2. Type a task in the input box.  
+3. Click **"Add Task"** to add it to the list.  
 4. Click **"delete"** to remove a task.
 
 ## 📸 Screenshot
 
-```markdown
 ![Screenshot](./screenshot.png)
-```
 
 ## 📱 Responsive Design
 
