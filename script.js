@@ -6,7 +6,7 @@ function addtodo() {
 
          if(newtask.textContent==="") {
              const message = document.createElement('span');
-        message.textContent = "Empty task cannot be empty!";
+        message.textContent = "Empty task cannot be added!";
         message.style.color = "red";
         message.style.padding = "15px";
         document.body.appendChild(message);
