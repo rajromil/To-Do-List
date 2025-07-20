@@ -33,4 +33,4 @@ Works on desktop, tablet, and mobile screens using media queries.
 
 ---
 
-Made with ❤️ using HTML, CSS, and JavaScript.
+Made using HTML, CSS, and JavaScript.
